@@ -1,15 +1,19 @@
 # shell-calculator
 calculator using Linux shell script. Following four operators are implemented
+
 1 - Add (a)
+
 2 - Subtract (s)
+
 3 - Multiply (m)
+
 4 - Divide (d)
 
 Only two operands and one operator will be allowed. Each operand can only be a number between 1-100.
 
 ## How to run?
 1. Open the command line interface in linux
-2. 3. The code takes input from command line in the form 
+2. The code takes input from command line in the form 
                           2 a 3
 3. run the command "bash calculator.sh" followed by arguments. i.e. the following format 
                     bash calculator.sh 2 a 3
