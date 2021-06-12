@@ -13,8 +13,8 @@ Only two operands and one operator will be allowed. Each operand can only be a n
                           2 a 3
 3. run the command "bash calculator.sh" followed by arguments. i.e. the following format 
                     bash calculator.sh 2 a 3
-                    
-                    ![](https://github.com/samrafakhar/shell-calculator/blob/main/Capture.PNG)
+                   
+     ![](https://github.com/samrafakhar/shell-calculator/blob/main/Capture.PNG)
 
 ## How it works?
 it uses a regex to check if the input is a number. for all other inputs (symbol or alphabets), it shows an error message.
